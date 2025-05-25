@@ -1,0 +1,2 @@
+# lmabp2
+2SLS-IV Box-Pierce Autocorrelation LM Test at Higher Order AR(p) Use lmabp2 With STATA 19
